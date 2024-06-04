@@ -6,7 +6,7 @@
 - By analyzing this extensive dataset, it becomes possible to gain valuable insights into Target's operations in Brazil. The information can shed light on various aspects of the business, such as order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction levels.
 
 
-## For The learner
+## For The User
 - Solving this business case holds immense importance for aspiring data analysts and scientists.
 - SQL is the backbone of data analysis and management in the modern era. By working through this case study, individuals gain hands-on experience and practical skills in manipulating and querying databases, which are fundamental to extracting insights from large volumes of data.
 - Solving this particular case study will help in developing proficiency in constructing complex SQL queries and understanding real-world data scenarios.
